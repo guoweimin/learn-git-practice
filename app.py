@@ -2,7 +2,7 @@ print("hello world")
 
 print("Payment")
 
-print("API functions v2 by me")
+print("API functions v2")
 
 
 def add(a, b):
